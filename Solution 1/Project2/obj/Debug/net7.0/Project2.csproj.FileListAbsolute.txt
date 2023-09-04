@@ -1,0 +1,15 @@
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\bin\Debug\net7.0\Project2.exe
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\bin\Debug\net7.0\Project2.deps.json
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\bin\Debug\net7.0\Project2.runtimeconfig.json
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\bin\Debug\net7.0\Project2.dll
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\bin\Debug\net7.0\Project2.pdb
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.csproj.AssemblyReference.cache
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.AssemblyInfoInputs.cache
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.AssemblyInfo.cs
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.csproj.CoreCompileInputs.cache
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.dll
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\refint\Project2.dll
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.pdb
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\Project2.genruntimeconfig.cache
+D:\Batch 5_Andrew C Handoko\Day 1\Solution 1\Project2\obj\Debug\net7.0\ref\Project2.dll
